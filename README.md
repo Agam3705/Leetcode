@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
+| [0875-koko-eating-bananas](https://github.com/Agam3705/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Agam3705/Leetcode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
