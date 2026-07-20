@@ -24,10 +24,8 @@ public:
         ino(root,v);
         int n=v.size();
         int mn=INT_MAX;
-        for(int i =0; i<n;i++){
-            for(int j =i+1;j<n;j++){
-                mn=min(mn,v[j]-v[i]);
-            }
+        for(int i =1;i<n;i++){
+            mn=min(mn,v[i]-v[i-1]);
         }
         return mn;
     }
