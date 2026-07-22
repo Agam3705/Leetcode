@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Agam3705/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/Agam3705/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Agam3705/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Agam3705/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Agam3705/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
