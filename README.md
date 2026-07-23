@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Agam3705/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Agam3705/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Agam3705/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Agam3705/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Agam3705/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/Agam3705/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3705/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Agam3705/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/Agam3705/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Agam3705/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Hash Table
