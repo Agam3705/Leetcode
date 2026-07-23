@@ -19,7 +19,7 @@ public:
             return;
 
         char temp = board[i][j];
-        board[i][j] = '#';
+        board[i][j] = '@';
 
         helper(board, word, m, n, i + 1, j, idx + 1);
         helper(board, word, m, n, i - 1, j, idx + 1);
