@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Agam3705/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Agam3705/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Agam3705/Leetcode/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Agam3705/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/Agam3705/Leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Agam3705/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Agam3705/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Hash Table
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Agam3705/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Agam3705/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Agam3705/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
