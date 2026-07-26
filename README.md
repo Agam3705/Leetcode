@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Agam3705/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Agam3705/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Agam3705/Leetcode/tree/master/0344-reverse-string) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Agam3705/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Agam3705/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Agam3705/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Agam3705/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
