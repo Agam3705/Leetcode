@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Agam3705/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Agam3705/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Agam3705/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Agam3705/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Agam3705/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Agam3705/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Agam3705/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Agam3705/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Agam3705/Leetcode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
