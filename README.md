@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Agam3705/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Agam3705/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Agam3705/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Agam3705/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Agam3705/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Agam3705/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Agam3705/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Agam3705/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Agam3705/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Agam3705/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
