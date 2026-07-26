@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Agam3705/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Agam3705/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Agam3705/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Agam3705/Leetcode/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Agam3705/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/Agam3705/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Agam3705/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Agam3705/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Agam3705/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Agam3705/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/Agam3705/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Agam3705/Leetcode/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/Agam3705/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Agam3705/Leetcode/tree/master/0876-middle-of-the-linked-list) |
