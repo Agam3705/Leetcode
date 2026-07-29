@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Agam3705/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Agam3705/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Agam3705/Leetcode/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/Agam3705/Leetcode/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/Agam3705/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/Agam3705/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Agam3705/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Agam3705/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Agam3705/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Agam3705/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0494-target-sum](https://github.com/Agam3705/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Agam3705/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Agam3705/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Agam3705/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Agam3705/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Agam3705/Leetcode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Agam3705/Leetcode/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
